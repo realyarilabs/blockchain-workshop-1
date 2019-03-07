@@ -136,7 +136,7 @@ Many times called "The World Computer"!
 ### Smart Contracts 
 
 Smart contract flow of data 
-![smart_contract_flow](assets/sc_flow.png)
+![smart_contract_flow](assets/sc_flow.jpg)
 +++
 
 ![smart_contracts_applications](https://s3.eu-west-2.amazonaws.com/braga-blockchain/sc_application.png)
